@@ -4,20 +4,27 @@
 * **
 
 ### Remap Classes
+
 ```java
 ClassRemapperAPI.startClassRemapping("input.jar", "output.jar");
 ```
+
 <p></p>
+
 ---------------------------------
+
 ###  Remap Fields
+
 ```java
 ClassRemapperAPI.startFieldRemapping("input.jar", "output.jar");
 ```
 
 <p></p>
+
 ---------------------------------
 
 ###  Set Custom Dictionary
+
 ```java
 ClassRemapperAPI.setDictionary("Il");
 ```
