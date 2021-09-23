@@ -28,3 +28,7 @@ ClassRemapperAPI.startFieldRemapping("input.jar", "output.jar");
 ```java
 ClassRemapperAPI.setDictionary("Il");
 ```
+
+<p></p>
+
+---------------------------------
